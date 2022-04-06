@@ -1,5 +1,5 @@
 # CyberDog_Ctrl
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Karlsx/CyberDog_Ctrl/blob/main/README.en.md)
 该demo使用python实现的[gRPC](http://doc.oschina.net/grpc?t=58008) client向cyberdog发送控制指令，通信协议为官方开源[cyberdog_app.proto](https://partner-gitlab.mioffice.cn/cyberdog/athena_cyberdog/-/tree/devel/athena_common/athena_grpc/protos) ，但因无具体协议说明文档，只能靠手机端App使用方式推测具体接口的使用方法。
 
 目前能实现基础的移动控制与基础的动作指令控制。
